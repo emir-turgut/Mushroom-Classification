@@ -63,5 +63,5 @@ This project successfully demonstrates the use of a Random Forest Classifier for
 2. **mushrooms.csv:** Dataset used for training and testing the model.
 
 ## Additional Notes
-A README file has been added to summarize the project structure and its purpose. For more detailed explanations, refer to the Python script and visualization outputs.
+This README file has been provided to summarize the project structure and its purpose. For more detailed explanations, refer to the Python script and visualization outputs.
 
